@@ -19,4 +19,4 @@ If you would like to contribute you can just say Hi over Twitter [@developerayo]
 or just create a pull request then I review.
 
 
-**You can follow me on Twitter I would not mind [@developerayo](http:twitter.com/developerayo)**
+**You can follow me on Twitter I would not mind [@developerayo](http:twitter.com/developerayo)** :grin: :wink:

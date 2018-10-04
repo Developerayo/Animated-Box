@@ -13,7 +13,6 @@ body {
     top: calc(50% - 150px);
     left: 400px;
     transition: transform 900ms ease-in-out;
-    pointer-events:none;
 }
 
 .box:hover {

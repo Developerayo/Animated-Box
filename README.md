@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Animated Box Using Css
 
-You can use the [editor on GitHub](https://github.com/Developerayo/Animated-Box/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Wondering how to make a box spin? haha [Check out this spining box](https://developerayo.github.io/Animated-Box/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to run for newbies...
 
-### Markdown
+1. Click on Clone and Download then Download ZIP
+2. Extract from Amzing-Zip-Master and copy to your specific location
+3. Open and run the `index.html`.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contribution
 
-```markdown
-Syntax highlighted code block
+If you would like to contribute you can just say Hi over Twitter [@developerayo](http:twitter.com/developerayo).
+or just create a pull request then I review.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Developerayo/Animated-Box/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**You can follow me on Twitter I would not mind [@developerayo](http:twitter.com/developerayo)**

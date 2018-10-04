@@ -1,0 +1,20 @@
+/*Animated Box By Shodipo Ayomide {Developerayo}*/
+body {
+    background-color: skyblue;
+    color: black;
+    padding: 45px;
+}
+.box {
+    display: block;
+    background-color: #ffffff;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: calc(50% - 150px);
+    left: 400px;
+    transition: transform 900ms ease-in-out;
+}
+
+.box:hover {
+    transform: translate(200px, 50px) rotate(-1000deg);
+}

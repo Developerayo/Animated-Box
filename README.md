@@ -7,7 +7,7 @@
 
 Wondering how to make a box spin? haha [Check out this spining box](https://developerayo.github.io/Animated-Box/).
 
-### How to run for newbies...baby:
+### How to run for newbies... :baby:
 
 1. Click on Clone and Download then Download ZIP
 2. Extract from Amzing-Zip-Master and copy to your specific location

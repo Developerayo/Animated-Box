@@ -9,8 +9,8 @@ Wondering how to make a box spin? haha [Check out this spining box](https://deve
 
 ### How to run for newbies... :baby:
 
-1. Click on Clone and Download then Download ZIP
-2. Extract from Amzing-Zip-Master and copy to your specific location
+1. Click on Clone and Download repo then Download ZIP
+2. Extract from Amzing-Zip-Master and copy to your specific location of your choice
 3. Open and run the `index.html`.
 
 ## Contribution

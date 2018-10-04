@@ -17,5 +17,6 @@ body {
 
 .box:hover {
     transform: translate(200px, 50px) rotate(-1000deg);
+    pointer-events:none;
 }
 /*Animated Box By Shodipo Ayomide {Developerayo}*/
